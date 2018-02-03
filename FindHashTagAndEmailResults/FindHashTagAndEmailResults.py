@@ -3,7 +3,7 @@ from botocore.exceptions import ClientError
 from twython import Twython, TwythonError
 
 # Read in all values from config file
-file = open("config.txt","r")
+file = open("/home/ec2-user/python-scripts/config.txt","r")
 APP_KEY                     = file.readline().strip()
 APP_SECRET                  = file.readline().strip()
 OAUTH_TOKEN                 = file.readline().strip()
