@@ -1,4 +1,8 @@
 
+Index
+=====
+* [Search twitter for and get an email of the results](https://github.com/KidPluto/TwitterBots/blob/master/FindHashTagAndEmailResults/README.md)
+* [Generate daily tweet from a reddit sub](https://github.com/KidPluto/TwitterBots/blob/master/TweetRedditPosts/README.md)
 Set up for creating Twitter Bots
 =====
 * Create Twitter account
